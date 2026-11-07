@@ -81,3 +81,6 @@ uv run --with "mcp>=2.3,<3" python test_archicad_mcp.py
 ```
 
 Prints `ok` on success.
+
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/petarstoev02-archicad-mcp-3ntqk1?v=ed46d4c659a00811bcc0360390ad104d)](https://m8ven.ai/mcp/petarstoev02-archicad-mcp-3ntqk1?s=readme)
